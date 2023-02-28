@@ -1,0 +1,2 @@
+C:\Users\NEEV\source\repos\ReactFilters\ReactFilters\obj\Debug\reactfilters.esproj.SuggestedBindingRedirects.cache
+C:\Users\NEEV\source\repos\ReactFilters\ReactFilters\obj\Debug\reactfilters.esproj.CoreCompileInputs.cache
